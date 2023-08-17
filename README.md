@@ -4,9 +4,8 @@
 
 ## I'm a Developer !!
 
-- 🌱 I’m currently adding JS to my library 
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 Web Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love music and Tech
 
 ### Connect with me:
